@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://jsooo.xyz/sitemap.xml
